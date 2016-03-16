@@ -1,0 +1,17 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AT24C64A-10PU-2.7
+D 64Kb (8192x8) Serial EEPROM with Unique Serial Number, SO8
+K I2C Serial EEPROM Nonvolatile Memory
+F http://www.atmel.com/Images/Atmel-8870-SEEPROM-AT24CS64-Datasheet.pdf
+$ENDCMP
+#
+$CMP GP2Y0A21YK
+D Connector 01x03
+$ENDCMP
+#
+$CMP HC-SR04
+D Connector 01x04
+$ENDCMP
+#
+#End Doc Library
