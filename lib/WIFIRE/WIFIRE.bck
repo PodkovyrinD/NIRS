@@ -6,12 +6,30 @@ K I2C Serial EEPROM Nonvolatile Memory
 F http://www.atmel.com/Images/Atmel-8870-SEEPROM-AT24CS64-Datasheet.pdf
 $ENDCMP
 #
+$CMP BA56-12SRWA
+D DISPLAY 7 SEGMENTS common A.
+K 7 SEGMENTS
+F Display/LTC-6960HR.pdf
+$ENDCMP
+#
+$CMP BA56-12SRWA(2)
+D DISPLAY 7 SEGMENTS common A.
+K 7 SEGMENTS
+F Display/LTC-6960HR.pdf
+$ENDCMP
+#
 $CMP GP2Y0A21YK
 D Connector 01x03
 $ENDCMP
 #
 $CMP HC-SR04
 D Connector 01x04
+$ENDCMP
+#
+$CMP irlml6401
+D -100V Vds, -23A Id, HEXFET P-Channel MOSFET, TO-220
+K HEXFET P-Channel MOSFET
+F http://www.irf.com/product-info/datasheets/data/irf9540n.pdf
 $ENDCMP
 #
 #End Doc Library
