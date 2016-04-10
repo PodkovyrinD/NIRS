@@ -26,6 +26,17 @@ $CMP HC-SR04
 D Connector 01x04
 $ENDCMP
 #
+$CMP MMBT3904
+D  NPN, Small Signal Transistor, SOT-23
+K 8050
+$ENDCMP
+#
+$CMP Tran_8050
+D 40V Vce, 0.2A Ic, NPN, Small Signal Transistor, SOT-23
+K MMBT3904 NPN Transistor
+F http://www.nxp.com/documents/data_sheet/MMBT3904.pdf
+$ENDCMP
+#
 $CMP irlml6401
 D -100V Vds, -23A Id, HEXFET P-Channel MOSFET, TO-220
 K HEXFET P-Channel MOSFET
