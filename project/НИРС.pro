@@ -1,4 +1,4 @@
-update=08.03.2016 2:07:17
+update=17.04.2016 0:14:40
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=../../lib/WIFIRE
+LibDir=../../lib/WIFIRE;../../../НИРС/nc-libs-master
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -59,3 +59,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=J:/kiCad/lib/WIFIRE/WIFIRE
+LibName31=spiflash_16m
