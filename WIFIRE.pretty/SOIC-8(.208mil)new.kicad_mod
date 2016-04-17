@@ -1,4 +1,4 @@
-(module "SOIC-8(.208mil)" (layer F.Cu) (tedit 571390A2)
+(module "SOIC-8(.208mil)new" (layer F.Cu) (tedit 571390A2)
   (fp_text reference REF** (at 2.6543 2.0066) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
