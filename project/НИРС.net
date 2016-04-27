@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source J:/kiCad/bin/НИРС/НИРС.sch)
-    (date "17.04.2016 15:13:42")
+    (date "25.04.2016 15:14:23")
     (tool "Eeschema 4.0.2-stable")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -189,7 +189,7 @@
       (tstamp 5709C5FC))
     (comp (ref BTN101)
       (value Reset)
-      (footprint WIFIRE:TS-A2PS-130)
+      (footprint WIFIRE:RESET)
       (libsource (lib WIFIRE) (part Reset))
       (sheetpath (names /) (tstamps /))
       (tstamp 570A8EB0))
@@ -778,10 +778,10 @@
   (libraries
     (library (logical device)
       (uri J:\kiCad\share\kicad\library\device.lib))
-    (library (logical WIFIRE)
-      (uri J:\kiCad\lib\WIFIRE\WIFIRE.lib))
     (library (logical 74xx)
-      (uri J:\kiCad\share\kicad\library\74xx.lib)))
+      (uri J:\kiCad\share\kicad\library\74xx.lib))
+    (library (logical WIFIRE)
+      (uri J:\kiCad\lib\WIFIRE\WIFIRE.lib)))
   (nets
     (net (code 1) (name /COL2)
       (node (ref R107) (pin 1))
