@@ -29,6 +29,7 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:WIFIRE
+LIBS:spiflash_16m
 LIBS:НИРС-cache
 EELAYER 25 0
 EELAYER END
@@ -244,14 +245,10 @@ SRCLK
 Text HLabel 3555 2930 0    60   Input ~ 0
 RCLK
 Wire Wire Line
-	3555 2930 3605 2930
-Wire Wire Line
-	3605 2930 3850 2930
+	3555 2930 3850 2930
 Connection ~ 3755 2630
 Wire Wire Line
-	3555 2630 3755 2630
-Wire Wire Line
-	3755 2630 3850 2630
+	3555 2630 3850 2630
 Connection ~ 3605 2930
 Wire Wire Line
 	3605 2930 3605 4445
@@ -384,9 +381,7 @@ Wire Wire Line
 Wire Wire Line
 	3850 3030 3830 3030
 Wire Wire Line
-	3830 3030 3830 3155
-Wire Wire Line
-	3830 3155 3830 3255
+	3830 3030 3830 3255
 Wire Wire Line
 	6545 4150 6545 4230
 Wire Wire Line
@@ -439,9 +434,7 @@ Wire Wire Line
 Wire Wire Line
 	3675 3715 3675 4245
 Wire Wire Line
-	4390 2120 4390 2165
-Wire Wire Line
-	4390 2165 4390 2230
+	4390 2120 4390 2230
 Wire Wire Line
 	3830 2165 4390 2165
 Connection ~ 4390 2165
@@ -449,9 +442,7 @@ Wire Wire Line
 	4105 3155 3830 3155
 Connection ~ 3830 3155
 Wire Wire Line
-	4365 3685 4365 3715
-Wire Wire Line
-	4365 3715 4365 3745
+	4365 3685 4365 3745
 $Comp
 L +5V #PWR?
 U 1 1 570D4D3C
@@ -467,9 +458,7 @@ Wire Wire Line
 	3675 3715 4365 3715
 Connection ~ 4365 3715
 Wire Wire Line
-	4365 4985 4365 5020
-Wire Wire Line
-	4365 5020 4365 5055
+	4365 4985 4365 5055
 Wire Wire Line
 	3675 5020 4365 5020
 Connection ~ 4365 5020

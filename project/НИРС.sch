@@ -29,6 +29,7 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:WIFIRE
+LIBS:spiflash_16m
 LIBS:НИРС-cache
 EELAYER 25 0
 EELAYER END
