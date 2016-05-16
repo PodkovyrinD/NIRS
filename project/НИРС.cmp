@@ -1,0 +1,635 @@
+Cmp-Mod V01 Created by PcbNew   date = 15.05.2016 1:01:16
+
+BeginCmp
+TimeStamp = 570A5FDC
+Path = /56E495B8
+Reference = R110;
+ValeurCmp = 4,7K;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A5E62
+Path = /56E45277
+Reference = eeprom;
+ValeurCmp = AT24C64A-10PU-2.7;
+IdModule  = WIFIRE:JEDEC_SOIC;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A5E1A
+Path = /56E4CE49
+Reference = C101;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A5E2E
+Path = /56F4BED4/56F5E4D5
+Reference = DISP;
+ValeurCmp = BA56-12SRWA(2);
+IdModule  = WIFIRE:BA56-12SRWA;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A5E6C
+Path = /56E4660C
+Reference = j6;
+ValeurCmp = J6;
+IdModule  = WIFIRE:CONN_J6;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A5E84
+Path = /56DE1469
+Reference = J7;
+ValeurCmp = J7;
+IdModule  = WIFIRE:CONN_J7;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A5E98
+Path = /56E46A03
+Reference = J8;
+ValeurCmp = J8;
+IdModule  = WIFIRE:CONN_J8;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A5EA8
+Path = /56DE101C
+Reference = J9;
+ValeurCmp = J9;
+IdModule  = WIFIRE:CONN_J9;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A5EC0
+Path = /56E45FFD
+Reference = J10;
+ValeurCmp = J10;
+IdModule  = WIFIRE:CONN_J10;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A5EE4
+Path = /5702498F/57028B1D
+Reference = LED;
+ValeurCmp = GNM-7881AUE;
+IdModule  = WIFIRE:GNM-7881;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A5EF4
+Path = /5702498F/5709BC12
+Reference = Q301;
+ValeurCmp = Tran_8050;
+IdModule  = TO_SOT_Packages_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A5F04
+Path = /5702498F/5709EF08
+Reference = Q302;
+ValeurCmp = Tran_8050;
+IdModule  = TO_SOT_Packages_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A5F14
+Path = /5702498F/5709C550
+Reference = Q303;
+ValeurCmp = Tran_8050;
+IdModule  = TO_SOT_Packages_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A5F24
+Path = /5702498F/5709EA0F
+Reference = Q304;
+ValeurCmp = Tran_8050;
+IdModule  = TO_SOT_Packages_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A5F34
+Path = /5702498F/5709C965
+Reference = Q305;
+ValeurCmp = Tran_8050;
+IdModule  = TO_SOT_Packages_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A5F44
+Path = /5702498F/5709E30E
+Reference = Q306;
+ValeurCmp = Tran_8050;
+IdModule  = TO_SOT_Packages_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A5F54
+Path = /5702498F/5709CE89
+Reference = Q307;
+ValeurCmp = Tran_8050;
+IdModule  = TO_SOT_Packages_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A5F64
+Path = /5702498F/5709DABF
+Reference = Q308;
+ValeurCmp = Tran_8050;
+IdModule  = TO_SOT_Packages_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A5F70
+Path = /56FCF4AB
+Reference = R101;
+ValeurCmp = 4,7K;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A5F7C
+Path = /56FFF340
+Reference = R102;
+ValeurCmp = 4,7K;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A5F88
+Path = /56FFCAF0
+Reference = R103;
+ValeurCmp = 4,7K;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A5F94
+Path = /56FF8986
+Reference = R104;
+ValeurCmp = 4,7K;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A5FA0
+Path = /56FF55E0
+Reference = R105;
+ValeurCmp = 4,7K;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A5FAC
+Path = /56FF20E5
+Reference = R106;
+ValeurCmp = 4,7K;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A5FB8
+Path = /56FEE355
+Reference = R107;
+ValeurCmp = 4,7K;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A5FC4
+Path = /56FE9471
+Reference = R108;
+ValeurCmp = 4,7K;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A5FD0
+Path = /56E499EE
+Reference = R109;
+ValeurCmp = 4,7K;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A5FE8
+Path = /56F4BED4/56F5E444
+Reference = R201;
+ValeurCmp = 68;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A5FF4
+Path = /56F4BED4/56F5E460
+Reference = R202;
+ValeurCmp = 68;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A6000
+Path = /56F4BED4/56F5E459
+Reference = R203;
+ValeurCmp = 68;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A600C
+Path = /56F4BED4/56F5E475
+Reference = R204;
+ValeurCmp = 68;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A6018
+Path = /56F4BED4/56F5E452
+Reference = R205;
+ValeurCmp = 68;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A6024
+Path = /56F4BED4/56F5E46E
+Reference = R206;
+ValeurCmp = 68;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A6030
+Path = /56F4BED4/56F5E44B
+Reference = R207;
+ValeurCmp = 68;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A603C
+Path = /56F4BED4/56F5E467
+Reference = R208;
+ValeurCmp = 68;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A6048
+Path = /5702498F/57028B33
+Reference = R301;
+ValeurCmp = 68;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A6054
+Path = /5702498F/57028B3A
+Reference = R302;
+ValeurCmp = 68;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A6060
+Path = /5702498F/57028B95
+Reference = R303;
+ValeurCmp = 68;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A606C
+Path = /5702498F/57028B9C
+Reference = R304;
+ValeurCmp = 68;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A6078
+Path = /5702498F/57028BA3
+Reference = R305;
+ValeurCmp = 68;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A6084
+Path = /5702498F/57028BAA
+Reference = R306;
+ValeurCmp = 68;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A6090
+Path = /5702498F/57028BB1
+Reference = R307;
+ValeurCmp = 68;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A609C
+Path = /5702498F/57028BB8
+Reference = R308;
+ValeurCmp = 68;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A60A8
+Path = /5702498F/57089231
+Reference = R309;
+ValeurCmp = 47K;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A60B4
+Path = /5702498F/57088F50
+Reference = R310;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A60C0
+Path = /5702498F/5708CB28
+Reference = R311;
+ValeurCmp = 47K;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A60CC
+Path = /5702498F/5708CB22
+Reference = R312;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A60D8
+Path = /5702498F/570AD1C9
+Reference = R313;
+ValeurCmp = 100;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A60E4
+Path = /5702498F/570AADCB
+Reference = R314;
+ValeurCmp = 100;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A60F0
+Path = /5702498F/5708B614
+Reference = R315;
+ValeurCmp = 47K;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A60FC
+Path = /5702498F/5708B60E
+Reference = R316;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A6108
+Path = /5702498F/5708CB3F
+Reference = R317;
+ValeurCmp = 47K;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A6114
+Path = /5702498F/5708CB39
+Reference = R318;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A6120
+Path = /5702498F/570ACB18
+Reference = R319;
+ValeurCmp = 100;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A612C
+Path = /5702498F/570AB332
+Reference = R320;
+ValeurCmp = 100;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A6138
+Path = /5702498F/5708B89C
+Reference = R321;
+ValeurCmp = 47K;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A6144
+Path = /5702498F/5708B896
+Reference = R322;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A6150
+Path = /5702498F/5708CB56
+Reference = R323;
+ValeurCmp = 47K;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A615C
+Path = /5702498F/5708CB50
+Reference = R324;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A6168
+Path = /5702498F/570AC6E2
+Reference = R325;
+ValeurCmp = 100;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A6174
+Path = /5702498F/570AB7A0
+Reference = R326;
+ValeurCmp = 100;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A6180
+Path = /5702498F/5708C0D5
+Reference = R327;
+ValeurCmp = 47K;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A618C
+Path = /5702498F/5708C0CF
+Reference = R328;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A6198
+Path = /5702498F/5708CB6D
+Reference = R329;
+ValeurCmp = 47K;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A61A4
+Path = /5702498F/5708CB67
+Reference = R330;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A61B0
+Path = /5702498F/570AC19B
+Reference = R331;
+ValeurCmp = 100;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A61BC
+Path = /5702498F/570ABB53
+Reference = R332;
+ValeurCmp = 100;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A61C7
+Path = /5703EC79
+Reference = SRV1;
+ValeurCmp = CONN_servo;
+IdModule  = WIFIRE:CONN_servo;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A61D2
+Path = /5704F780
+Reference = SRV2;
+ValeurCmp = CONN_servo;
+IdModule  = WIFIRE:CONN_servo;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A61DD
+Path = /570500E8
+Reference = SRV3;
+ValeurCmp = CONN_servo;
+IdModule  = WIFIRE:CONN_servo;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A61E8
+Path = /570500FA
+Reference = SRV4;
+ValeurCmp = CONN_servo;
+IdModule  = WIFIRE:CONN_servo;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A6207
+Path = /56F4BED4/56F5E49A
+Reference = U201;
+ValeurCmp = 74HC595;
+IdModule  = Housings_SOIC:SOIC-16_3.9x9.9mm_Pitch1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A6226
+Path = /56F4BED4/56F5E43D
+Reference = U202;
+ValeurCmp = 74HC595;
+IdModule  = Housings_SOIC:SOIC-16_3.9x9.9mm_Pitch1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A6232
+Path = /56E5E261
+Reference = URM;
+ValeurCmp = HC-SR04;
+IdModule  = WIFIRE:HC-SR04;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A5ECC
+Path = /570402B5
+Reference = JMPR;
+ValeurCmp = JUMPER3;
+IdModule  = WIFIRE:CONN_1-3;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A5E4B
+Path = /56E4CC54
+Reference = IR;
+ValeurCmp = GP2Y0A21YK;
+IdModule  = WIFIRE:CONN_1-3;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A5E0E
+Path = /570A8EB0
+Reference = RESET;
+ValeurCmp = Reset;
+IdModule  = WIFIRE:TS-A2PS-130;
+EndCmp
+
+BeginCmp
+TimeStamp = 570A5E3F
+Path = /5709C5FC
+Reference = FLASH;
+ValeurCmp = W25Q32BV;
+IdModule  = WIFIRE:SOIC-8(.208mil)new;
+EndCmp
+
+BeginCmp
+TimeStamp = 57293F8D
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = WIFIRE:LOGO4;
+EndCmp
+
+EndListe
