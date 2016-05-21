@@ -5,7 +5,7 @@
     (no_connects 0)
     (area 131.150007 96.469996 194.120001 149.910001)
     (thickness 1.6)
-    (drawings 38)
+    (drawings 39)
     (tracks 1745)
     (zones 0)
     (modules 85)
@@ -500,6 +500,11 @@
       (net 2 GND))
     (pad 8 smd rect (at 1.905 -2.54 270) (size 0.65 1.524) (layers B.Cu B.Paste B.Mask)
       (net 3 +5V))
+    (model Housings_SOIC.3dshapes/SOIC-8_3.9x4.9mm_Pitch1.27mm.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 90))
+    )
   )
 
   (module WIFIRE:CONN_J6 locked (layer F.Cu) (tedit 57058102) (tstamp 570A5E6C)
@@ -7135,6 +7140,9 @@
     )
   )
 
+  (gr_text 68 (at 184.404 138.557) (layer B.SilkS) (tstamp 573A3451)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
   (gr_text 4,7K (at 156.59 131.03) (layer B.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
